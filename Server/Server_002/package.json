@@ -1,0 +1,11 @@
+{
+    "name": "jquery-dynamic-page",
+    "version": "1.0.0",
+    "description": "The example of the dynamic page based on the node.js",
+    "author": "Vadim Nikiforov",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.4"
+    }
+}

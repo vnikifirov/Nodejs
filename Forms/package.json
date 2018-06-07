@@ -1,0 +1,14 @@
+{
+  "name": "2-recall-forms",
+  "version": "1.0.0",
+  "description": "This is a structure example of server on Node.js",
+  "main": "app.js",
+  "bin": {
+    "2-recall-forms": "www.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

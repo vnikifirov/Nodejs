@@ -1,0 +1,26 @@
+{
+  "name": "configs-tests",
+  "version": "1.0.0",
+  "description": "Set up tests",
+  "main": "./src/first-entry-point.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha ./test/*.test/*.test.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikifovadim/Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikifovadim/Node.js/issues"
+  },
+  "homepage": "https://github.com/nikifovadim/Node.js#readme"
+}

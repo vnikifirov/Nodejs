@@ -1,0 +1,14 @@
+{
+  "name": "3-js-async-and-await",
+  "version": "1.0.0",
+  "description": "EX: JS Async and Await - Knowlege base project",
+  "main": "app.js",
+  "author": "Vadim N.",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.62.0",
+    "jshint": "^2.9.5",
+    "node-fetch": "^1.7.3"
+  },
+  "repository": "https://github.com/nikifovadim/web-dev.git"
+}
